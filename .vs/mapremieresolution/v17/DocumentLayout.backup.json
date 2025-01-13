@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yvesc\\source\\repos\\mapremieresolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{779C599E-C5BA-441C-B534-D2A14557ED00}|Boucles\\Boucles.csproj|c:\\users\\yvesc\\source\\repos\\mapremieresolution\\boucles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779C599E-C5BA-441C-B534-D2A14557ED00}|Boucles\\Boucles.csproj|solutionrelative:boucles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8FD29E-59DB-4755-8339-A8D37BA37F78}|madeuxiemeappliconsole\\madeuxiemeappliconsole.csproj|c:\\users\\yvesc\\source\\repos\\mapremieresolution\\madeuxiemeappliconsole\\toto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8FD29E-59DB-4755-8339-A8D37BA37F78}|madeuxiemeappliconsole\\madeuxiemeappliconsole.csproj|solutionrelative:madeuxiemeappliconsole\\toto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yvesc\\source\\repos\\mapremieresolution\\Boucles\\Program.cs",
+              "RelativeDocumentMoniker": "Boucles\\Program.cs",
+              "ToolTip": "C:\\Users\\yvesc\\source\\repos\\mapremieresolution\\Boucles\\Program.cs",
+              "RelativeToolTip": "Boucles\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:52:37.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Toto.cs",
+              "DocumentMoniker": "C:\\Users\\yvesc\\source\\repos\\mapremieresolution\\madeuxiemeappliconsole\\Toto.cs",
+              "RelativeDocumentMoniker": "madeuxiemeappliconsole\\Toto.cs",
+              "ToolTip": "C:\\Users\\yvesc\\source\\repos\\mapremieresolution\\madeuxiemeappliconsole\\Toto.cs",
+              "RelativeToolTip": "madeuxiemeappliconsole\\Toto.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T18:12:45.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

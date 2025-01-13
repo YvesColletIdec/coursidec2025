@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "madeuxiemeappliconsole/1.0.0": {
+        "runtime": {
+          "madeuxiemeappliconsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "madeuxiemeappliconsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
