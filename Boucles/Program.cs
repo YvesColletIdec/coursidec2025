@@ -33,6 +33,19 @@
             //Console.WriteLine(DateTime.Now.ToString("dd.MM.yyyy HH:mm:ss"));
             //Console.WriteLine($"num1 est égal à {num1}");
 
+            //for
+            //string[] noms = { "Jean", "Paul", "Jacques", "Pierre" };
+            string[] noms = new string[4];
+            for (int i = 0; i <= noms.Length - 1; i++)
+            {
+                noms[i] = Console.ReadLine();
+            }
+
+            for (int i = 0; i < noms.Length; i++)
+            {
+                Console.WriteLine(noms[i]);
+            }
+
             Console.ReadLine();
         }
     }
