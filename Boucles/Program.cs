@@ -35,15 +35,28 @@
 
             //for
             //string[] noms = { "Jean", "Paul", "Jacques", "Pierre" };
-            string[] noms = new string[4];
-            for (int i = 0; i <= noms.Length - 1; i++)
-            {
-                noms[i] = Console.ReadLine();
-            }
+            //string[] noms = new string[4];
+            //for (int i = 0; i <= noms.Length - 1; i++)
+            //{
+            //    noms[i] = Console.ReadLine();
+            //}
 
-            for (int i = 0; i < noms.Length; i++)
+            //for (int i = noms.Length - 1; i >= 0; i--)
+            //{
+            //    //affiche chaque élément de mon tableau en inversant l'ordre des lettres
+            //    //il faut faire un retour à la ligne après chaque élément
+            //    for (int j = noms[i].Length - 1; j >= 0; j--)
+            //    {
+            //        Console.Write(noms[i][j]);
+            //    }
+            //}
+
+            string[] noms = { "Jean", "Paul", "Jacques", "Pierre" };
+            //foreach
+            int i = 0;
+            foreach (string x in noms)
             {
-                Console.WriteLine(noms[i]);
+                Console.WriteLine($"{i++} : {x}");
             }
 
             Console.ReadLine();
