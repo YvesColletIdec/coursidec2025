@@ -53,12 +53,15 @@
 
             string[] noms = { "Jean", "Paul", "Jacques", "Pierre" };
             //foreach
-            int i = 0;
-            foreach (string x in noms)
+            //int i = 0;
+            //foreach (string x in noms)
+            //{
+            //    Console.WriteLine($"{i++} : {x}");
+            //}
+            for (int i = 0; i <= noms.Length - 1; i++)
             {
-                Console.WriteLine($"{i++} : {x}");
+                Console.WriteLine($"{i} : {noms[i]}");
             }
-
             Console.ReadLine();
         }
     }
