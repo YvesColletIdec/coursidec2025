@@ -1,0 +1,16 @@
+//installation de .net core version 8 LTS
+sudo apt-get install dotnet-sdk-8.0
+//version
+dotnet --version
+//ajout d'une solution de type visual studio c#
+dotnet new sln -n "slnCsharp"
+//création d'un projet de type console
+dotnet new "console" -lang "C#" -n "prjTest" -o "prjTest"
+//attachement du projet à la solution
+dotnet sln "/home/yves/dev_csharp/slnCsharp.sln" add "/home/yves/dev_csharp/prjTest/prjTest.csproj"
+//génération du projet
+dotnet build "/home/yves/dev_csharp/prjTest/prjTest.csproj"
+//exécution du binaire créé
+cd /home/yves/dev_csharp/prjTest/bin/Debug/net8.0
+//exécution
+./prjTest

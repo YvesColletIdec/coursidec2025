@@ -27,7 +27,9 @@
                  resultat = a / b;
             } catch(Exception e)
             {
-                Console.WriteLine($"zut le programme a planté : {e}");
+                Console.WriteLine($"zut le programme a planté...");
+                string path = "C:/Users/yvesc/monFichier.txt";
+                File.AppendAllText(path, e.Message);
             }
             
             Console.WriteLine(resultat);

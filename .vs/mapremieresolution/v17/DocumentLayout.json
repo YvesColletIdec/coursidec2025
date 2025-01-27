@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{925764B6-38E7-42E8-A969-5165C29A6446}|ProjetException\\ProjetException.csproj|c:\\users\\yvesc\\documents\\github\\coursidec2025\\projetexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{925764B6-38E7-42E8-A969-5165C29A6446}|ProjetException\\ProjetException.csproj|solutionrelative:projetexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEFF7AA-4686-45FD-A330-0F347B96AFE5}|Fichiers\\Fichiers.csproj|c:\\users\\yvesc\\documents\\github\\coursidec2025\\fichiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEFF7AA-4686-45FD-A330-0F347B96AFE5}|Fichiers\\Fichiers.csproj|solutionrelative:fichiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,7 +17,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 193,
+          "DockedWidth": 159,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -24,9 +28,22 @@
               "RelativeDocumentMoniker": "ProjetException\\Program.cs",
               "ToolTip": "C:\\Users\\yvesc\\Documents\\GitHub\\coursidec2025\\ProjetException\\Program.cs",
               "RelativeToolTip": "ProjetException\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA4wAsAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T19:53:36.838Z",
+              "WhenOpened": "2025-01-27T18:55:44.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yvesc\\Documents\\GitHub\\coursidec2025\\Fichiers\\Program.cs",
+              "RelativeDocumentMoniker": "Fichiers\\Program.cs",
+              "ToolTip": "C:\\Users\\yvesc\\Documents\\GitHub\\coursidec2025\\Fichiers\\Program.cs",
+              "RelativeToolTip": "Fichiers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T18:48:38.828Z",
               "EditorCaption": ""
             }
           ]
