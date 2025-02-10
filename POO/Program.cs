@@ -6,6 +6,22 @@ namespace POO
     {
         static void Main(string[] args)
         {
+            Animal a = new Animal(5);
+            a.Nom = "Fufu";
+            a.Espece = "Chien";
+            a.Age = 5;
+            Console.WriteLine(a.Nom);
+        }
+            static void Main6(string[] args)
+        {
+            Voiture v = new Voiture();
+            Console.WriteLine(v.GetMarque());
+            Console.WriteLine(v.Poids);
+            v.Poids = Console.ReadLine();
+            Montre m = new Montre() { prix = 23, type = "luxe" };
+        }
+            static void Main5(string[] args)
+        {
             Personne p = new Personne();
             Personne p1 = new Personne("Jean", 42);
             p.SetNom("Raul");

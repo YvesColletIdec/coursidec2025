@@ -15,6 +15,11 @@ namespace POO1
         {
             Console.WriteLine("pfou");
         }
+
+        public void CommentTappellestu()
+        {
+            Console.WriteLine(nom);
+        }
         public static void Salut()
         {
             Console.WriteLine("Salut");
@@ -46,11 +51,16 @@ namespace POO1
 
         public void SetAge(int valeur)
         {
+            if (valeur < 0 || valeur > 100)
+            {
+                valeur = 25;
+            }
             age = valeur;
         }
 
         public int GetAge()
         {
+
             return age;
         }
 

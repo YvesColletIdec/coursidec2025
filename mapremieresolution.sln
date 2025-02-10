@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fichiers", "Fichiers\Fichie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO", "POO\POO.csproj", "{249CD840-725E-42C5-8BD2-282F1E2377F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Heritage", "POO_Heritage\POO_Heritage.csproj", "{D5B99D24-564C-4B7B-AE5E-E8142117D796}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{249CD840-725E-42C5-8BD2-282F1E2377F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{249CD840-725E-42C5-8BD2-282F1E2377F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{249CD840-725E-42C5-8BD2-282F1E2377F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B99D24-564C-4B7B-AE5E-E8142117D796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B99D24-564C-4B7B-AE5E-E8142117D796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B99D24-564C-4B7B-AE5E-E8142117D796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B99D24-564C-4B7B-AE5E-E8142117D796}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

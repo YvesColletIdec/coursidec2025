@@ -8,17 +8,35 @@ namespace POO
 {
     public class Voiture
     {
-        private string marque;
-        public static int nbRoues = 4;
+        public int NombreDeRoues { get; set; }
 
-        public void SetMarque(string marque)
+        private string _poids;
+
+        public string Poids
         {
-            this.marque = marque;
+            get { return _poids; }
+            set { _poids = value; }
+        }
+
+        public Voiture()
+        {
+            _marque = "Ford";
+            Poids = "1000";
+            Console.WriteLine(Poids);
+        }
+
+
+
+        private string _marque;
+
+        public void SetMarque(string _marque)
+        {
+            this._marque = _marque;
         }
 
         public string GetMarque()
         {
-            return this.marque;
+            return _marque;
         }
 
 
